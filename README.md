@@ -53,4 +53,4 @@ The project’s goal is to **automate heart disease detection from CXRs**, helpi
 These results show strong generalization and reliability of the hybrid model for medical imaging tasks.  
 
 ### Example ROC Curve
-*(`ROC_train.png` / `ROC_test.png`)*  
+*(`ROC train.png` / `ROC test.png`)*  
