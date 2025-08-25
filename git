@@ -1,0 +1,14 @@
+[33mcommit a1cd97cb130db66e36ee47048143f230e55e1de2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Shehab Ziada <shehabziada130@gmail.com>
+Date:   Mon Aug 25 19:13:30 2025 +0200
+
+    Add .gitignore
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c034d8a[m
+[1m--- /dev/null[m
+[1m+++ b/.gitignore[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mimages_and_pdfs/[m
+\ No newline at end of file[m
